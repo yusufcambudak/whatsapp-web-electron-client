@@ -6,7 +6,10 @@ Ein schlanker Electron-Wrapper für WhatsApp Web unter Linux. Beim Schließen de
 
 - Läuft WhatsApp Web in einem eigenständigen Fenster (kein Browser-Tab nötig)
 - Minimiert sich beim Schließen ins Taskbar/System-Tray statt die App zu beenden
-- *[weitere Funktionen ergänzen, z.B. Benachrichtigungen, Tray-Icon-Menü, Autostart]*
+- Benachrichtigungen
+- Kamera Zugriff
+- Bildschirm Freigabe Zugriff
+- Anruf Funktion falls Account in WhatsApp Beta Programm
 
 ## Installation
 
